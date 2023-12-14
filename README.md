@@ -2,6 +2,9 @@
 Havoc plugin allowing in-memory execution of PowerShell cmdlets. Original functionality based on [NoPowerShell by bitsadmin](https://github.com/bitsadmin/nopowershell).
 
 ## Installation 
+### Havoc extension store
+![image](https://github.com/jakobfriedl/havoc-NoPowerShell/assets/71284620/6b614938-4c0e-4739-9b5d-320a068683f0)
+
 ### Manual Installation
 1. Clone the repository
    ```
