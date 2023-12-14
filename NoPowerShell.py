@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- Coding: UTF-8 -*-
 # Author: Jakob Friedl
-# Created on: Thur, 14. Dec 2023
+# Created on: Thu, 14. Dec 2023
 # Description: NoPowerShell.exe port to Havoc C2. Execute powershell cmdlets in memory.
 
 from havoc import Demon, RegisterCommand 
