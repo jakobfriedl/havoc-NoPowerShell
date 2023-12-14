@@ -8,8 +8,8 @@ Havoc plugin allowing in-memory execution of PowerShell cmdlets. Original functi
    git clone https://github.com/jakobfriedl/havoc-NoPowerShell
    ```
 3. Load Script using Script Manager
-   ![image](https://github.com/jakobfriedl/havoc-NoPowerShell/assets/71284620/82bd8f03-7e19-47a2-beac-6f6c2d90c31e)
-
+   ![image](https://github.com/jakobfriedl/havoc-NoPowerShell/assets/71284620/488e5660-ee65-4ac2-b4c8-2d503ffded16)
+   
 ## Usage
 ```
 nps <command> <arguments>
